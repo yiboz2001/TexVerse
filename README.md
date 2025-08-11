@@ -4,7 +4,7 @@
 </h1>
 
   <a href='#'><img src='https://img.shields.io/badge/Project%20Page-Coming%20Soon-lightgrey'></a> &nbsp;
-  <a href='./assets/TexVerse.pdf'><img src='https://img.shields.io/badge/Paper-PDF-critical'></a> &nbsp;
+  <a href='https://raw.githubusercontent.com/yiboz2001/TexVerse/main/assets/TexVerse.pdf'><img src='https://img.shields.io/badge/Paper-Download-critical'></a> &nbsp;
 <br>
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse-blue'></a> &nbsp;
@@ -79,5 +79,6 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 
 ```
 ```
+
 
 
