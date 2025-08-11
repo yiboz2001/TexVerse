@@ -25,21 +25,26 @@
 
 </div>
 
-## News
+![TexVerse](assets/teaser.png)
 
-- [2025-08-11] We have released the **TexVerse** dataset. Feel free to download it.
+**TexVerse is a large-scale 3D dataset featuring high-resolution textures.**  Its key characteristics include:
 
-## Abstract
-
-**TexVerse is a large-scale 3D dataset featuring high-resolution textures.**
-Its key characteristics include:
-1. **Scale & Source**: **858,669 unique 3D models** curated from Sketchfab, including **158,518** with physically based rendering (PBR) materials.
+1. **Scale & Source**: TexVerse dataset has **858,669 unique 3D models** curated from Sketchfab, including **158,518** with physically based rendering (PBR) materials.
 2. **Variants**: Each model includes all high-resolution variants, resulting in a total of **1,659,097 3D instances**.
 3. **Specialized Subsets**:
    For the rigged and animated categories of models, we further obtain the original user-uploaded file format to prevent the loss of skeletons and animations during the format conversion of Sketchfab. 
    - **TexVerse-Skeleton**: **69,138 rigged models**.
    - **TexVerse-Animation**: **54,430 animated models**.
 4. **Annotations**: Detailed model annotations covering overall characteristics, structural components, and fine-grained features.
+
+
+
+Feel free to contact me ([ybzhang23@mails.jlu.edu.cn](mailto:ybzhang23@mails.jlu.edu.cn)) or open an issue if you have any questions or suggestions.
+
+
+## News
+
+- [2025-08-11] We have released the **TexVerse** dataset. Feel free to download it.
 
 ## Statistics
 
