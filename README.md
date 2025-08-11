@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-  TexVerse: <span style="font-size:0.8em;">A Universe of 3D Objects with High-Resolution Textures</span>
+  TexVerse: <span style="font-size:0.6em;">A Universe of 3D Objects with High-Resolution Textures</span>
 </h1>
 
   <a href='#'><img src='https://img.shields.io/badge/Project%20Page-Coming%20Soon-lightgrey'></a> &nbsp;
