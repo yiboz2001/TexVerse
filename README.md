@@ -52,16 +52,16 @@ Feel free to contact me ([ybzhang23@mails.jlu.edu.cn](mailto:ybzhang23@mails.jlu
 
 ## Metadata
 
-The following metadata files are provided in the `./metadata` folder
+We provide the following metadata files.
 - **TexVerse Dataset**  
-  - Dataset metadata: `metadata.json`  
-  - Object ID list: `TexVerse_id_list.txt`  
-  - PBR material model ID list: `TexVerse_pbr_id_list.txt`  
-  - Annotations for a subset of 856,312 objects: `caption.json`  
+  - Object ID list: `./metadata/TexVerse_id_list.txt`  
+  - PBR material model ID list: `./metadata/TexVerse_pbr_id_list.txt`  
+  - Dataset metadata: `metadata.json` in [TexVerse Dataset](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+  - Annotations for a subset of 856,312 objects: `caption.json` in [TexVerse Dataset](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
 - **TexVerse-Animation Dataset**  
-  - Animated object ID list: `TexVerse-Animation_id_list.txt`  
+  - Animated object ID list: `./metadata/TexVerse-Animation_id_list.txt`  
 - **TexVerse-Skeleton Dataset**  
-  - Rigged object ID list: `TexVerse-Skeleton_id_list.txt`  
+  - Rigged object ID list: `./metadata/TexVerse-Skeleton_id_list.txt`  
 
 ## License
 
@@ -79,4 +79,5 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 
 ```
 ```
+
 
