@@ -1,19 +1,18 @@
-# TexVerse: A Universe of 3D Objects with High-Resolution Textures
-
 <div align="center">
+<h1 align="center">
+  TexVerse: <span style="font-size:0.8em;">A Universe of 3D Objects with High-Resolution Textures</span>
+</h1>
+
   <a href='#'><img src='https://img.shields.io/badge/Project%20Page-Coming%20Soon-lightgrey'></a> &nbsp;
   <a href='./assets/TexVerse.pdf'><img src='https://img.shields.io/badge/Paper-PDF-critical'></a> &nbsp;
-
+<br>
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse-blue'></a> &nbsp;
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse-1K'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse--1K-blue'></a> &nbsp;
-  
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse--Skeleton--Animation-blue'></a> &nbsp;
-
-
-
+<br>
 
 **[Yibo Zhang<sup>1,2</sup>](https://yiboz2001.github.io/),  [Li Zhang<sup>1,3</sup>](https://lzrobots.github.io/),  [Rui Ma<sup>2 &ast;</sup>](https://ruim-jlu.github.io/), [Nan Cao<sup>1,4</sup>](http://nancao.org/)** 
 <br>
