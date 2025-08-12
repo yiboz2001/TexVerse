@@ -34,6 +34,8 @@
    For the rigged and animated categories of models, we further obtain the original user-uploaded file format to prevent the loss of skeletons and animations during the format conversion of Sketchfab. 
    - **TexVerse-Skeleton**: **69,138 rigged models**.
    - **TexVerse-Animation**: **54,430 animated models**.
+
+   Note: We only successfully downloaded the source files for 87,414 models. For details, please refer to `model_paths.txt` in [TexVerse-Skeleton-Animation](https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation).
 4. **Annotations**: Detailed model annotations covering overall characteristics, structural components, and fine-grained features.
 
 
@@ -78,6 +80,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 
 ```
 ```
+
 
 
 
