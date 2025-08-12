@@ -13,7 +13,6 @@
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse--Skeleton--Animation-blue'></a> &nbsp;
 <br>
-
 **[Yibo Zhang<sup>1,2</sup>](https://yiboz2001.github.io/),  [Li Zhang<sup>1,3</sup>](https://lzrobots.github.io/),  [Rui Ma<sup>2 &ast;</sup>](https://ruim-jlu.github.io/), [Nan Cao<sup>1,4</sup>](http://nancao.org/)** 
 <br>
 <sup>1</sup>Shanghai Innovation Institute
@@ -79,6 +78,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 
 ```
 ```
+
 
 
 
