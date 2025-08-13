@@ -57,12 +57,23 @@ We provide the following metadata files.
 - **TexVerse Dataset**  
   - Object ID list: `./metadata/TexVerse_id_list.txt`  
   - PBR material model ID list: `./metadata/TexVerse_pbr_id_list.txt`  
-  - Dataset metadata: `metadata.json` in [TexVerse Dataset](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
-  - Annotations for a subset of 856,312 objects: `caption.json` in [TexVerse Dataset](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+  - Dataset metadata: `metadata.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+  - Annotations for a subset of 856,312 objects: `caption.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
 - **TexVerse-Animation Dataset**  
   - Animated object ID list: `./metadata/TexVerse-Animation_id_list.txt`  
 - **TexVerse-Skeleton Dataset**  
   - Rigged object ID list: `./metadata/TexVerse-Skeleton_id_list.txt`  
+
+## Download
+
+#### **TexVerse Dataset**  
+Due to the file number limitations of the Hugging Face repository:  
+- The **2K**, **4K**, and **8K** resolution data are hosted in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).  
+- The **1K** resolution data are hosted separately in [**TexVerse-1K**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-1K).  
+
+#### **TexVerse-Animation Dataset** and **TexVerse-Skeleton Dataset**  
+Jointly Hosted in [**TexVerse-Skeleton-Animation**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation).
+
 
 ## License
 
@@ -79,7 +90,14 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 ## Citation
 
 ```
+@article{zhang2025texverse,
+  title     = {TexVerse: A Universe of 3D Objects with High-Resolution Textures},
+  author    = {Zhang, Yibo and Zhang, Li and Ma, Rui and Cao, Nan}, 
+  journal   = {arXiv preprint},
+  year      = {2025}
+}
 ```
+
 
 
 
