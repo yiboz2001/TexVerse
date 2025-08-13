@@ -89,7 +89,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 
 ## Citation
 
-```
+``` bibtex
 @article{zhang2025texverse,
   title     = {TexVerse: A Universe of 3D Objects with High-Resolution Textures},
   author    = {Zhang, Yibo and Zhang, Li and Ma, Rui and Cao, Nan}, 
@@ -97,6 +97,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
