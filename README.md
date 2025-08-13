@@ -87,7 +87,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 - [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/): 7,008  
 - [CC0](https://creativecommons.org/publicdomain/zero/1.0/): 6,139 
 
-## Citation
+## BibTex
 
 ``` bibtex
 @article{zhang2025texverse,
@@ -97,6 +97,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
