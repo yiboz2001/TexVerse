@@ -72,7 +72,7 @@ Due to the file number limitations of the Hugging Face repository:
 - The **1K** resolution data are hosted separately in [**TexVerse-1K**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-1K).  
 
 #### **TexVerse-Animation Dataset** and **TexVerse-Skeleton Dataset**  
-Jointly Hosted in [**TexVerse-Skeleton-Animation**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation).
+Jointly hosted in [**TexVerse-Skeleton-Animation**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation).
 
 
 ## License
@@ -97,6 +97,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
