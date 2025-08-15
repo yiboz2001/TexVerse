@@ -4,7 +4,7 @@
 </h1>
 
   <a href='#'><img src='https://img.shields.io/badge/Project%20Page-Coming%20Soon-lightgrey'></a> &nbsp;
-  <a href='https://raw.githubusercontent.com/yiboz2001/TexVerse/main/assets/TexVerse.pdf'><img src='https://img.shields.io/badge/Paper-Download-critical'></a> &nbsp;
+  <a href='https://arxiv.org/abs/2508.10868'><img src='https://img.shields.io/badge/arXiv-2508.10868-b31b1b.svg?logo=arXiv'></a> &nbsp;
 <br>
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse-blue'></a> &nbsp;
@@ -93,10 +93,11 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
 @article{zhang2025texverse,
   title     = {TexVerse: A Universe of 3D Objects with High-Resolution Textures},
   author    = {Zhang, Yibo and Zhang, Li and Ma, Rui and Cao, Nan}, 
-  journal   = {arXiv preprint},
+  journal   = {arXiv preprint arXiv:2508.10868},
   year      = {2025}
 }
 ```
+
 
 
 
