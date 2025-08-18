@@ -45,7 +45,7 @@ Feel free to contact me ([ybzhang23@mails.jlu.edu.cn](mailto:ybzhang23@mails.jlu
 
 ## News
 
-- [2025-08-11] We have uploaded model thumbnails in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+- [2025-08-18] We have uploaded model thumbnails in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
 - [2025-08-11] We have released the **TexVerse** dataset. Feel free to download it.
 
 ## Statistics
@@ -98,6 +98,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
