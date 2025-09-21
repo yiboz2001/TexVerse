@@ -58,8 +58,38 @@ We provide the following metadata files.
 - **TexVerse Dataset**  
   - Object ID list: `./metadata/TexVerse_id_list.txt`  
   - PBR material model ID list: `./metadata/TexVerse_pbr_id_list.txt`  
-  - Dataset metadata: `metadata.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
   - Annotations for a subset of 856,312 objects: `caption.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+  - Dataset metadata: `metadata.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+    
+    Example:
+      ```
+      "d14eb14d83bd4e7ba7cbe443d76a10fd": {
+        "name": "\u26e8 The Forgotten Knight \u26e8",
+        "description": "# The Forgotten Knight \nOnce a mighty warrior, abandoned by time but not by nature. His armor, entwined with crimson roses, stands as a testament to battles long past. No longer does he hear the clash of swords, only the whisper of petals in the wind. A silent guardian, a symbol of eternal memory and unfulfilled duty.\n\n---\n*Made and rig in Blender 4.3*\n\n---\n\n![](https://cdna.artstation.com/p/assets/images/images/085/261/074/large/igor-oskolskiy-forgotten-knight-1.jpg?1740389159)\n![](https://cdna.artstation.com/p/assets/images/images/085/261/082/large/igor-oskolskiy-forgotten-knight-4.jpg?1740389179)\n![](https://cdna.artstation.com/p/assets/images/images/085/261/060/large/igor-oskolskiy-fk-05.jpg?1740389116)\n![](https://cdna.artstation.com/p/assets/images/images/085/261/058/large/igor-oskolskiy-fk-04.jpg?1740389106)",
+        "user": "dark_igorek",
+        "user_display": "dark_igorek",
+        "tags": [
+          "armor", "rig", "medeival", "roses", "crusader", "substaincepainter", "fantasycharacter", "rigged-character", "character", "blender", "art", "free", "sword", "fantasy", "download", "rigged", "knight"
+        ],
+        "categories": [
+          "Art & Abstract",
+          "Characters & Creatures"
+        ],
+        "vertexCount": 135405,
+        "faceCount": 223719,
+        "max_texture": 2048,
+        "pbrType": "metalness",
+        "isRigged": true,
+        "animation": 0,
+        "animationCount": true,
+        "license": "CC Attribution",
+        "thumbnail_url": "https://media.sketchfab.com/models/d14eb14d83bd4e7ba7cbe443d76a10fd/thumbnails/8156e3bdd3e149d48e23f2977cc08bdf/d03634237e4140b2a370f37291626475.jpeg",
+        "glb_paths": [
+          "glbs/glbs_2k/000-013/d14eb14d83bd4e7ba7cbe443d76a10fd_2048.glb",
+          "glbs/glbs_1k/000-041/d14eb14d83bd4e7ba7cbe443d76a10fd_1024.glb"
+        ]
+      }
+      ```
 - **TexVerse-Animation Dataset**  
   - Animated object ID list: `./metadata/TexVerse-Animation_id_list.txt`  
 - **TexVerse-Skeleton Dataset**  
@@ -98,6 +128,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
