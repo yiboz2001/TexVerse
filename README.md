@@ -58,8 +58,8 @@ We provide the following metadata files.
 - **TexVerse Dataset**  
   - Object ID list: `./metadata/TexVerse_id_list.txt`  
   - PBR material model ID list: `./metadata/TexVerse_pbr_id_list.txt`  
-  - Annotations for a subset of 856,312 objects: `caption.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
-  - Dataset metadata: `metadata.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse).
+  - Annotations for a subset of 856,312 objects: `caption.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse/blob/main/caption.json).
+  - Dataset metadata: `metadata.json` in [**TexVerse**](https://huggingface.co/datasets/YiboZhang2001/TexVerse/blob/main/metadata.json).
     
     Example:
       ```
@@ -128,6 +128,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
