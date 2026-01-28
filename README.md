@@ -107,6 +107,7 @@ Jointly hosted in [**TexVerse-Skeleton-Animation**](https://huggingface.co/datas
 
 
 ## License
+This repo is released under the [MIT License](./LICENSE).
 
 Individual objects in TexVerse are all licensed as creative commons distributable objects. The metadata will provide the license for each object.
 
@@ -128,6 +129,7 @@ Individual objects in TexVerse are all licensed as creative commons distributabl
   year      = {2025}
 }
 ```
+
 
 
 
