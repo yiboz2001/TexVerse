@@ -10,7 +10,7 @@
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse-blue'></a> &nbsp;
   <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse-1K'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TexVerse--1K-blue'></a> &nbsp;
-  <a href='https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation'>
+  <a href='https://www.modelscope.ai/datasets/Yibo-Zhang/TexVerse-Skeleton-Animation'>
   <img src='https://img.shields.io/static/v1?label=ModelScope&message=TexVerse-Skeleton-Animation&color=blue&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1vZGVsU2NvcGU8L3RpdGxlPjxwYXRoIGQ9Ik0wIDcuOTY3aDIuNjY3djIuNjY3SDB6TTggMTAuNjMzaDIuNjY3VjEzLjNIOHoiIGZpbGw9IiMzNkNFRDAiPjwvcGF0aD48cGF0aCBkPSJNMCAxMC42MzNoMi42NjdWMTMuM0gwek0yLjY2NyAxMy4zaDIuNjY2djIuNjY3SDh2Mi42NjZIMi42NjdWMTMuM3pNMi42NjcgNS4zSDh2Mi42NjdINS4zMzN2Mi42NjZIMi42NjdWNS4zek0xMC42NjcgMTMuM2gyLjY2N3YyLjY2N2gtMi42Njd6IiBmaWxsPSIjNjI0QUZGIj48L3BhdGg%2BPHBhdGggZD0iTTI0IDcuOTY3aC0yLjY2N3YyLjY2N0gyNHpNMTYgMTAuNjMzaC0yLjY2N1YxMy4zSDE2eiIgZmlsbD0iIzM2Q0VEMCI%2BPC9wYXRoPjxwYXRoIGQ9Ik0yNCAxMC42MzNoLTIuNjY3VjEzLjNIMjR6TTIxLjMzMyAxMy4zaC0yLjY2NnYyLjY2N0gxNnYyLjY2Nmg1LjMzM1YxMy4zek0yMS4zMzMgNS4zSDE2djIuNjY3aDIuNjY3djIuNjY2aDIuNjY2VjUuM3oiIGZpbGw9IiM2MjRBRkYiPjwvcGF0aD48L3N2Zz4%3D'></a> &nbsp;
 <br>
 **[Yibo Zhang<sup>1,2</sup>](https://yiboz2001.github.io/),  [Li Zhang<sup>1,3</sup>](https://lzrobots.github.io/),  [Rui Ma<sup>2 &ast;</sup>](https://ruim-jlu.github.io/), [Nan Cao<sup>1,4</sup>](http://nancao.org/)** 
