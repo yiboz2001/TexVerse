@@ -35,7 +35,7 @@
    - **TexVerse-Skeleton**: **69,138 rigged models**.
    - **TexVerse-Animation**: **54,430 animated models**.
 
-   Note: We only successfully downloaded the source files for 87,414 models. For details, please refer to `model_paths.txt` in [TexVerse-Skeleton-Animation](https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation).
+   Note: We only successfully downloaded the source files for 87,414 models. For details, please refer to `model_paths.txt` in [TexVerse-Skeleton-Animation](https://www.modelscope.ai/datasets/Yibo-Zhang/TexVerse-Skeleton-Animation).
 4. **Annotations**: Detailed model annotations covering overall characteristics, structural components, and fine-grained features.
 
 
@@ -103,7 +103,7 @@ Due to the file number limitations of the Hugging Face repository:
 - The **1K** resolution data are hosted separately in [**TexVerse-1K**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-1K).  
 
 #### **TexVerse-Animation Dataset** and **TexVerse-Skeleton Dataset**  
-Jointly hosted in [**TexVerse-Skeleton-Animation**](https://huggingface.co/datasets/YiboZhang2001/TexVerse-Skeleton-Animation).
+Jointly hosted in [**TexVerse-Skeleton-Animation**](https://www.modelscope.ai/datasets/Yibo-Zhang/TexVerse-Skeleton-Animation).
 
 
 ## License
